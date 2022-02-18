@@ -8,5 +8,5 @@ config.jsonu Doldurmayı unutmayın
 
 deploy-commands.js test etmek için kullanacığınız loader (node deploy-commands.js)
 
-deploy-commands-global.js bütün apiye yükleyeceğiniz loaders(node deploy-commands-global.js)
+deploy-commands-global.js bütün apiye yükleyeceğiniz loader (node deploy-commands-global.js)
 
