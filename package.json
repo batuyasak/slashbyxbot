@@ -9,8 +9,6 @@
   "engines": {
     "node": "16.x"
   },
-  "author": "Meridian",
-  "license": "Apache-2.0",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
