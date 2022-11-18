@@ -1,7 +1,7 @@
 {
   "name": "deneme",
   "version": "1.0.0",
-  "description": "A lightweight music and general purpose bot, that uses slash commands and buttons to be as user-friendly as possible! ",
+  "description": " ",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
